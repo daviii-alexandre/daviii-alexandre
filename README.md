@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi 👋
+# Olá, eu me chamo Davi 👋
 
 🎓 Estudante de programação, atualmente aprendendo **Python**.
 
