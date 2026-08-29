@@ -9,7 +9,7 @@
 ## 📫 Contato
 
 - Instagram: https://www.instagram.com/daviii.alexandre/
-- Email: daviiialexandre09@gmail.com
+- Email: d.alexandre.dev@gmail.com
 
 ## 🛠️ Tecnologias
 
