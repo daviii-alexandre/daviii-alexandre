@@ -21,6 +21,6 @@
 
 ## 📊 Estatísticas
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviii-alexandre&show_icons=true&theme=default)
+![Davi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daviii-alexandre&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daviii-alexandre&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daviii-alexandre&layout=compact)
