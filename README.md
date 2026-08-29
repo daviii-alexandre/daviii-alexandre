@@ -19,8 +19,7 @@
 
 <!-- SEÇÃO OPCIONAL DE ESTATÍSTICAS — apague se não quiser -->
 
-## 📊 Estatísticas
-
-![Davi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daviii-alexandre&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daviii-alexandre&layout=compact)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
